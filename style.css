@@ -1,1 +1,39 @@
-!
+/* Header */
+
+header {
+  text-align: center;
+  margin-bottom: 20px;
+  font-family: fantasy;
+  font-size: 30px;
+}
+
+/* Body */
+.img-1, .img-2, .img-3 {
+  margin-left: 150px;
+  max-height: 200px;
+}
+
+.img-4, .img-5 {
+  max-height: 200px;
+  margin-left: 150px;
+}
+
+.img-6, .img-7, .img-8 {
+  max-height: 200px;
+  margin-left: 200px;
+}
+
+
+
+
+/* Footer */
+
+footer{
+  text-align: center;
+}
+
+h3 a{
+  color: black;
+  text-decoration: none;
+  text-align: center;
+}
