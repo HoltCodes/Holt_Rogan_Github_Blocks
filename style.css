@@ -8,19 +8,45 @@ header {
 }
 
 /* Body */
+.container-1{
+  background-color: blue;
+  margin-left: 20px;
+  margin-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
 .img-1, .img-2, .img-3 {
   margin-left: 150px;
   max-height: 200px;
 }
 
+
+.container-2 {
+  background-color: coral;
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+  padding: 10px;
+}
+
 .img-4, .img-5 {
   max-height: 200px;
-  margin-left: 150px;
+  margin-left: 100px;
+  padding-left: 175px;
+}
+
+.container-3 {
+  background-color: darkred;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 20px;
+  padding: 10px;
 }
 
 .img-6, .img-7, .img-8 {
   max-height: 200px;
-  margin-left: 200px;
+  margin-left: 150px;
 }
 
 
